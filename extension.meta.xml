@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="selectbox_link_field" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Symphony Composer Extension</name>
+	<description>Provides a blank file to keep Symphony happy and work with Composer installer</description>
+	<repo type="github">https://github.com/bzerangue/sym-composer-extension</repo>
+	<types>
+		<type>Workflow</type>
+	</types>
+	<authors>
+		<author>
+			<name github="patrickyan" symphony="Pat">Patrick Yan</name>
+			<website>http://patrickyan.net</website>
+		</author>
+		<author>
+			<name github="bzerangue" symphony="bzerangue">Brian Zerangue</name>
+			<website>http://brianzerangue.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.1" date="2013-09-10" min="2.3.x">
+			- First release
+		</release>
+	</releases>
+</extension>
